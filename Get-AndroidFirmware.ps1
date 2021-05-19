@@ -1,4 +1,4 @@
-Function Get-Firmware() {
+Function Get-AndroidFirmware() {
     [CmdletBinding()]
     Param(
         [Switch]$OTA)
